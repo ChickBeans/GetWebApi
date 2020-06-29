@@ -1,3 +1,5 @@
+### site: https://getandshowwebapi.netlify.app/
+
 # webapiの取得と出力の練習
 ## 学び
 1. webapiの取得
