@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#form {
+  margin-bottom: 10px;
+}
+
+.btn {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.card {
+  width: 50%;
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  background-color: rgb(207, 207, 207);
+}
+
+.img__wrapper {
+  margin-right: 5%;
+}
+
+.body {
+  text-align: left;
+}
